@@ -1,0 +1,109 @@
+/*! react */
+
+/*! react-icons/fi */
+
+/*! ./Components/Navbar/Navbar */
+
+/*! ../../Assets/foto2.jpg */
+
+/*! aos */
+
+/*! aos/dist/aos.css */
+
+/*! react-icons/hi */
+
+/*! aos */
+
+/*! ../../Assets/foto6.jpg */
+
+/*! aos/dist/aos.css */
+
+/*! core-js/modules/web.dom-collections.iterator.js */
+
+/*! ../../Assets/foto3.jpg */
+
+/*! react-icons/ai */
+
+/*! react-icons/gr */
+
+/*! react */
+
+/*! ./Components/Footer/Footer */
+
+/*! react */
+
+/*! react-icons/md */
+
+/*! ../../Assets/video1.mp4 */
+
+/*! react/jsx-runtime */
+
+/*! react-icons/tb */
+
+/*! ../../Assets/foto4.jpg */
+
+/*! ./main.css */
+
+/*! react/jsx-runtime */
+
+/*! ./index.css */
+
+/*! aos */
+
+/*! ./Components/Home/Home */
+
+/*! react-icons/fi */
+
+/*! react-icons/io */
+
+/*! core-js/modules/esnext.iterator.map.js */
+
+/*! ../../Assets/video2.mp4 */
+
+/*! ./App.css */
+
+/*! react-icons/md */
+
+/*! ./navbar.css */
+
+/*! react-icons/tb */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ../../Assets/foto7.jpg */
+
+/*! ./home.css */
+
+/*! react-icons/bs */
+
+/*! react */
+
+/*! ./Components/Main/Main */
+
+/*! react */
+
+/*! ./App */
+
+/*! ../../Assets/foto5.jpg */
+
+/*! ./footer.css */
+
+/*! react-dom/client */
+
+/*! core-js/modules/esnext.async-iterator.map.js */
+
+/*! react-icons/io5 */
+
+/*! aos/dist/aos.css */
+
+/*! react/jsx-runtime */
+
+/*! ../../Assets/foto1.jpg */
+
+/*! react-icons/fa */
+
+/*! react */
+
+/*! react/jsx-runtime */
